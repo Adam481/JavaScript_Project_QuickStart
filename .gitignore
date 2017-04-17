@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules/
+vendors/bower_components
+
+backup/
+
+npm-debug.log

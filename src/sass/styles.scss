@@ -1,0 +1,25 @@
+﻿$primary-color: #333;
+$bacground: #888888;
+
+body {
+    color: $primary-color;
+    background-color: $bacground;
+}
+
+nav {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    li {
+        display: inline-block;
+    }
+
+    a {
+        display: block;
+        padding: 6px 12px;
+        text-decoration: none;
+    }
+}

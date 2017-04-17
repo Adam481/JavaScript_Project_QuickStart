@@ -1,0 +1,1 @@
+"use strict";var x=aaa,y=function(){return console.log(x)};
